@@ -5,7 +5,10 @@
 
 - Name: Clementine Iradukunda
 - Registration Number: 23771/2024
-![my picture](images/homepage.png) 
+-Course: E-Commerce And Web Application (EWA408510)
+-Lecturer: Eric Maniraguha
+-Academic Year: 2025–2026 | Semester II
+Submission Date: June 08, 2026
 
 ## Project Title
 
