@@ -79,4 +79,4 @@ https://clementineiradukun7.wixsite.com/my-site-4
 
 ## GitHub Repository Link
 
-https://github.com/clementine-Iradukunda/e-commerce/edit/main/README.md
+https://github.com/clementine-Iradukunda/e-commerce
