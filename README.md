@@ -1,4 +1,4 @@
-# e-commerce
+
 # Kigali Eats Fresh Store
 
 ## Student Information
